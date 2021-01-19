@@ -4,3 +4,4 @@ Some clouds, foggy
 Sunny, partly cloudy
 Clear skies, cold
 cloudy, warm
+clear skies
