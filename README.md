@@ -6,3 +6,4 @@ Clear skies, cold
 cloudy, warm
 clear skies
 clear skies, chilly
+cloudy
