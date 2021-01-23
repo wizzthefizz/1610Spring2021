@@ -7,3 +7,4 @@ cloudy, warm
 clear skies
 clear skies, chilly
 cloudy
+cloudy overhead, snowy
