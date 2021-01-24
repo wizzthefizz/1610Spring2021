@@ -8,3 +8,4 @@ clear skies
 clear skies, chilly
 cloudy
 cloudy overhead, snowy
+foggy, Chilly
