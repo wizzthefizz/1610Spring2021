@@ -9,3 +9,4 @@ clear skies, chilly
 cloudy
 cloudy overhead, snowy
 foggy, Chilly
+Cloudy, cold
