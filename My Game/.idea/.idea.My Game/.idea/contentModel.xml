@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ExampleBehaviorScript.cs" t="Include" />
+          <e p="VariablesAndFunctions.cs" t="Include" />
         </e>
       </e>
       <e p="My Game.sln" t="IncludeFlat" />
