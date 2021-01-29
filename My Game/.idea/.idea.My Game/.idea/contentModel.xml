@@ -7,6 +7,7 @@
         <e p="Scripts" t="Include">
           <e p="BasicSyntax.cs" t="Include" />
           <e p="ExampleBehaviorScript.cs" t="Include" />
+          <e p="MainPlayer.cs" t="Include" />
           <e p="VariablesAndFunctions.cs" t="Include" />
         </e>
       </e>
