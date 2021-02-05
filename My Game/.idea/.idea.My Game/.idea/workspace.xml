@@ -21,13 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/34/3447b46e402472f929e584bb3d4e2527" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/52/52e6f26eb67a4fe2a575935197de756f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/df/dff60fa739a5e00b4f4c515e636c27d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f2/f202a89bd555bf018de790364adb6280" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5b/5b28290778518f4b3b256a4bf854e042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b5b7ba1a73bb87200442133053130252" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
@@ -70,6 +67,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AwakeAndStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UpdateAndFixedUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/EnableComponents.cs" />
       </list>
     </option>
   </component>
@@ -123,6 +121,8 @@
       <workItem from="1612321038975" duration="578000" />
       <workItem from="1612413662093" duration="37000" />
       <workItem from="1612413706556" duration="247000" />
+      <workItem from="1612497480887" duration="15000" />
+      <workItem from="1612497504191" duration="180000" />
     </task>
     <servers />
   </component>
