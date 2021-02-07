@@ -23,7 +23,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f5/f57f841db716e0c6e241223101ea24bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1a/1a41b15e224e1ca00983daed6ea5255d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/de/de9fbb911d79516949854d8c326fa241" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/EnableComponents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ActiveObjects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/TransformFunctions.cs" />
       </list>
     </option>
   </component>
@@ -124,6 +126,8 @@
       <workItem from="1612497504191" duration="180000" />
       <workItem from="1612590422628" duration="24000" />
       <workItem from="1612590456421" duration="213000" />
+      <workItem from="1612669214401" duration="11000" />
+      <workItem from="1612669231196" duration="116000" />
     </task>
     <servers />
   </component>
