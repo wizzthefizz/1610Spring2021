@@ -10,6 +10,7 @@
             <e p="AnotherClass.cs" t="Include" />
             <e p="AwakeAndStart.cs" t="Include" />
             <e p="BasicSyntax.cs" t="Include" />
+            <e p="CameraLookAt.cs" t="Include" />
             <e p="CheckState.cs" t="Include" />
             <e p="DoWhileLoop.cs" t="Include" />
             <e p="EnableComponents.cs" t="Include" />
