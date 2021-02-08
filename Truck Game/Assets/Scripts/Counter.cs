@@ -5,13 +5,15 @@ using UnityEngine.UI;
 
 public class Counter : MonoBehaviour
 {
+    public int creditValue = 3;
     public int numberCount;
     public Text CounterText;
     
     
-    void Update()
+    void OnTriggerEnter2D()
     {
-        numberCount++;
+        numberCount += creditValue;
         CounterText.text = numberCount.ToString();
+        gameObject.SetActive(false);
     }
 }
