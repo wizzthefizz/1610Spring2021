@@ -21,13 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/217a45d7fe0abbe09deaeb9f4a9c0701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/7703ddc3e551c3a03b58a46be955b501" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b7ccf4896a4f75e6a45867e1fab05550" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +72,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/TransformFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CameraLookAt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyBasic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" />
       </list>
     </option>
   </component>
@@ -128,6 +136,7 @@
       <workItem from="1612669231196" duration="116000" />
       <workItem from="1612714758603" duration="17000" />
       <workItem from="1612714796003" duration="45000" />
+      <workItem from="1613109440411" duration="218000" />
     </task>
     <servers />
   </component>
