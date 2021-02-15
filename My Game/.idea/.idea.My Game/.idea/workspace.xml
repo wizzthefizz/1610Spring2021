@@ -24,10 +24,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/7703ddc3e551c3a03b58a46be955b501" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b7ccf4896a4f75e6a45867e1fab05550" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/10/10d10b583f564f3e01bd2c2791fd7086" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a37ec204201c79f50230ff8fc6e0f829" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ef/ef7223f1b5fd0b95e656fcc17b68483f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
@@ -41,14 +43,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -75,6 +80,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyBasic.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" />
       </list>
     </option>
   </component>
@@ -137,6 +148,8 @@
       <workItem from="1612714758603" duration="17000" />
       <workItem from="1612714796003" duration="45000" />
       <workItem from="1613109440411" duration="218000" />
+      <workItem from="1613355870955" duration="58000" />
+      <workItem from="1613355941874" duration="779000" />
     </task>
     <servers />
   </component>
@@ -159,5 +172,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="181" key="RiderGenerateDialog" timestamp="1613356301290">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="462" y="181" key="RiderGenerateDialog/0.0.1440.900@0.0.1440.900" timestamp="1613356301290" />
   </component>
 </project>

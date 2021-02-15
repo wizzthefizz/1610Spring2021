@@ -8,6 +8,7 @@
           <e p="BeginnerScripting" t="Include">
             <e p="ActiveObjects.cs" t="Include" />
             <e p="AnotherClass.cs" t="Include" />
+            <e p="AnotherScript.cs" t="Include" />
             <e p="AwakeAndStart.cs" t="Include" />
             <e p="BasicSyntax.cs" t="Include" />
             <e p="CameraLookAt.cs" t="Include" />
@@ -25,8 +26,10 @@
             <e p="ScopeAndAccessModifiers.cs" t="Include" />
             <e p="TransformFunctions.cs" t="Include" />
             <e p="UpdateAndFixedUpdate.cs" t="Include" />
+            <e p="UsingOtherComponents.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
             <e p="WhileLoop.cs" t="Include" />
+            <e p="YetAnotherScript.cs" t="Include" />
           </e>
         </e>
       </e>
