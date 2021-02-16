@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/10/10d10b583f564f3e01bd2c2791fd7086" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a37ec204201c79f50230ff8fc6e0f829" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ef/ef7223f1b5fd0b95e656fcc17b68483f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/27/27356de37b3e2b0bfdc95e52a7527e9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/5172c8d07cbde0987b96071dc1d5ade3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/64/64d0d0492b29a03fc2869b086a4d036b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9c/9ccd56edbe889c1aa687ce014a3464f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/ae308a0bad1f45383595fb12ad16e8ef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bd/bdb3b36e6f57f3287d76f9d880b42592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d9/d9a9b9dad8548e826be1077d53da6d60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f90352a8f01329426183fb1b248bbcb7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
@@ -43,17 +46,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -86,6 +89,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingDeltaTime.cs" />
       </list>
     </option>
   </component>
@@ -150,6 +154,7 @@
       <workItem from="1613109440411" duration="218000" />
       <workItem from="1613355870955" duration="58000" />
       <workItem from="1613355941874" duration="779000" />
+      <workItem from="1613450399905" duration="53000" />
     </task>
     <servers />
   </component>
