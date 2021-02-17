@@ -22,20 +22,12 @@
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/27/27356de37b3e2b0bfdc95e52a7527e9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/5172c8d07cbde0987b96071dc1d5ade3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/64/64d0d0492b29a03fc2869b086a4d036b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9c/9ccd56edbe889c1aa687ce014a3464f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/ae308a0bad1f45383595fb12ad16e8ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bd/bdb3b36e6f57f3287d76f9d880b42592" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d9/d9a9b9dad8548e826be1077d53da6d60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f90352a8f01329426183fb1b248bbcb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3c/3cdf5550b9cfbb054d5c000f20a1a1f2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +82,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingDeltaTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DataType.cs" />
       </list>
     </option>
   </component>
@@ -155,6 +148,7 @@
       <workItem from="1613355870955" duration="58000" />
       <workItem from="1613355941874" duration="779000" />
       <workItem from="1613450399905" duration="53000" />
+      <workItem from="1613539055416" duration="32000" />
     </task>
     <servers />
   </component>
