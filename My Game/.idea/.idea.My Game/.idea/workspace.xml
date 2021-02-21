@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d9/d9e49cf1cd590153862c759bf9b860fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/26/268ade897361b289a33a4a1b736de61d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
@@ -87,6 +85,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/SingleCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Inventory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MovementControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Shooting.cs" />
       </list>
     </option>
   </component>
@@ -158,6 +157,7 @@
       <workItem from="1613665844156" duration="114000" />
       <workItem from="1613750495181" duration="9000" />
       <workItem from="1613750511204" duration="110000" />
+      <workItem from="1613885465953" duration="19000" />
     </task>
     <servers />
   </component>
