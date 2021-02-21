@@ -32,6 +32,7 @@
             <e p="TransformFunctions.cs" t="Include" />
             <e p="UpdateAndFixedUpdate.cs" t="Include" />
             <e p="UsingDeltaTime.cs" t="Include" />
+            <e p="UsingInstantiate.cs" t="Include" />
             <e p="UsingOtherComponents.cs" t="Include" />
             <e p="VariablesAndFunctions.cs" t="Include" />
             <e p="WhileLoop.cs" t="Include" />

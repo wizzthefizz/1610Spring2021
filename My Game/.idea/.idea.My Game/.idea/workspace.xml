@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/26/268ade897361b289a33a4a1b736de61d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/48dd63dab56666ee6e52a3e12f56fb28" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
     </list>
@@ -86,6 +88,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Inventory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MovementControls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Shooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingInstantiate.cs" />
       </list>
     </option>
   </component>
@@ -158,6 +161,8 @@
       <workItem from="1613750495181" duration="9000" />
       <workItem from="1613750511204" duration="110000" />
       <workItem from="1613885465953" duration="19000" />
+      <workItem from="1613925587185" duration="67000" />
+      <workItem from="1613925660920" duration="37000" />
     </task>
     <servers />
   </component>
