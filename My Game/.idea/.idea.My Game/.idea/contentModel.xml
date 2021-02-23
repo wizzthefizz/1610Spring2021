@@ -26,6 +26,7 @@
             <e p="Inventory.cs" t="Include" />
             <e p="MainPlayer.cs" t="Include" />
             <e p="MovementControls.cs" t="Include" />
+            <e p="RocketDestruction.cs" t="Include" />
             <e p="ScopeAndAccessModifiers.cs" t="Include" />
             <e p="Shooting.cs" t="Include" />
             <e p="SingleCharacter.cs" t="Include" />

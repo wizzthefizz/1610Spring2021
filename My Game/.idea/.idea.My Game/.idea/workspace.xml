@@ -23,10 +23,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/48dd63dab56666ee6e52a3e12f56fb28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ed/eda690fd2161f25e29d0d0b5e0600166" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
     </list>
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MovementControls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Shooting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingInstantiate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/RocketDestruction.cs" />
       </list>
     </option>
   </component>
@@ -163,6 +163,8 @@
       <workItem from="1613885465953" duration="19000" />
       <workItem from="1613925587185" duration="67000" />
       <workItem from="1613925660920" duration="37000" />
+      <workItem from="1614054032713" duration="9000" />
+      <workItem from="1614054049388" duration="24000" />
     </task>
     <servers />
   </component>
