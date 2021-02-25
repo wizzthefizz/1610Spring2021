@@ -25,6 +25,7 @@
             <e p="ForLoop.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="Inventory.cs" t="Include" />
+            <e p="InvokeRepeating.cs" t="Include" />
             <e p="InvokeScript.cs" t="Include" />
             <e p="MainPlayer.cs" t="Include" />
             <e p="MovementControls.cs" t="Include" />
