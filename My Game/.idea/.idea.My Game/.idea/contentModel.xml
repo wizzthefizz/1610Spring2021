@@ -20,6 +20,7 @@
             <e p="DestroyOther.cs" t="Include" />
             <e p="DoWhileLoop.cs" t="Include" />
             <e p="EnableComponents.cs" t="Include" />
+            <e p="EnumScript.cs" t="Include" />
             <e p="ExampleBehaviorScript.cs" t="Include" />
             <e p="ForEachLoop.cs" t="Include" />
             <e p="ForLoop.cs" t="Include" />
