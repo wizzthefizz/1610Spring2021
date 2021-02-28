@@ -14,6 +14,7 @@
             <e p="BasicSyntax.cs" t="Include" />
             <e p="CameraLookAt.cs" t="Include" />
             <e p="CheckState.cs" t="Include" />
+            <e p="ConversationScript.cs" t="Include" />
             <e p="DataType.cs" t="Include" />
             <e p="DestroyBasic.cs" t="Include" />
             <e p="DestroyComponent.cs" t="Include" />
