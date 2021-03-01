@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ca/ca52f859beb0971d0915176d9ab1249a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a4/a4791e458aa0eff835f5bec3d2aba3d1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
@@ -75,7 +75,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyBasic.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/InvokeRepeating.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/EnumScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ConversationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
       </list>
     </option>
   </component>
@@ -176,6 +176,7 @@
       <workItem from="1614282089558" duration="10000" />
       <workItem from="1614358059301" duration="23000" />
       <workItem from="1614491978704" duration="22000" />
+      <workItem from="1614575169007" duration="36000" />
     </task>
     <servers />
   </component>
