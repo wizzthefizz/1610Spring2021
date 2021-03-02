@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fb/fb3ef701919a55c3237ce13f9b206e31" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -74,7 +73,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyBasic.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" />
@@ -94,6 +92,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ConversationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
       </list>
     </option>
   </component>
@@ -179,6 +178,7 @@
       <workItem from="1614575169007" duration="36000" />
       <workItem from="1614661681697" duration="13000" />
       <workItem from="1614661702005" duration="23000" />
+      <workItem from="1614723441081" duration="12000" />
     </task>
     <servers />
   </component>

@@ -11,6 +11,7 @@
             <e p="AnotherScript.cs" t="Include" />
             <e p="Arrays.cs" t="Include" />
             <e p="AwakeAndStart.cs" t="Include" />
+            <e p="AxisExample.cs" t="Include" />
             <e p="BasicSyntax.cs" t="Include" />
             <e p="ButtonInput.cs" t="Include" />
             <e p="CameraLookAt.cs" t="Include" />
