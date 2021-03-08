@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/10/1073f432bff9f9e994150bff74acb1e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/20/2074aade23c3be53b6138463f93dc699" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -94,6 +94,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
       </list>
     </option>
   </component>
@@ -181,6 +182,7 @@
       <workItem from="1614661702005" duration="23000" />
       <workItem from="1614723441081" duration="12000" />
       <workItem from="1614918530752" duration="21000" />
+      <workItem from="1615178475451" duration="75000" />
     </task>
     <servers />
   </component>
