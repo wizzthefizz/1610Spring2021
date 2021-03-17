@@ -23,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/20/2074aade23c3be53b6138463f93dc699" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a3973de36ff7940aeb3943413aaff0b4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -73,7 +73,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyBasic.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" />
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
       </list>
     </option>
   </component>
@@ -183,6 +183,8 @@
       <workItem from="1614723441081" duration="12000" />
       <workItem from="1614918530752" duration="21000" />
       <workItem from="1615178475451" duration="75000" />
+      <workItem from="1615947400075" duration="22000" />
+      <workItem from="1615947439942" duration="109000" />
     </task>
     <servers />
   </component>

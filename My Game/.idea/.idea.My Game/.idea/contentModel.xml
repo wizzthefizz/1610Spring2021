@@ -35,6 +35,7 @@
             <e p="InvokeScript.cs" t="Include" />
             <e p="KeyInput.cs" t="Include" />
             <e p="MainPlayer.cs" t="Include" />
+            <e p="MouseClick.cs" t="Include" />
             <e p="MovementControls.cs" t="Include" />
             <e p="RocketDestruction.cs" t="Include" />
             <e p="ScopeAndAccessModifiers.cs" t="Include" />
