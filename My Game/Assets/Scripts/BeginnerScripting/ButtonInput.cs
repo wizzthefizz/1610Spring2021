@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class ButtonInput : MonoBehaviour
 {
-    public GUITexture graphic;
+    public Image graphic;
     public Texture2D standard;
     public Texture2D downgfx;
     public Texture2D upgfx;
@@ -12,7 +12,7 @@ public class ButtonInput : MonoBehaviour
     
     void Start()
     {
-        graphic.texture = standard;
+        graphic.mainTexture= standard;
     }
     
     void Update ()
@@ -23,21 +23,21 @@ public class ButtonInput : MonoBehaviour
         
         if(down)
         {
-            graphic.texture = downgfx;
+            graphic.mainTexture = downgfx;
         }
         else if(held)
         {
-            graphic.texture = heldgfx;
+            graphic.mainTexture = heldgfx;
         }
         else if(up)
         {
-            graphic.texture = upgfx;
+            graphic.mainTexture = upgfx;
         }
         else
         {
-            graphic.texture = standard;
+            graphic.mainTexture = standard;
         }
     
-        guiText.text = " " + down + "\n " + held + "\n " + up;
+        Image.text = " " + down + "\n " + held + "\n " + up;
     }
 }

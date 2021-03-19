@@ -20,12 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a3973de36ff7940aeb3943413aaff0b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/07/07e75ddf544f5494bb30b3615731d697" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1e/1e8d59d5672935e8a45c84d7a601b4fc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/ProtocolInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-2df4c971e72094d90b6e5901b99c835b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-5b21598dee4984d1d8850f305d667881" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-644c18fdaa3244e7481111b2f8c6ba0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-d2b8e9bcea51c43aaa827e5ee97cd773" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Truck Game/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +107,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/InvokeRepeating.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/EnumScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ConversationScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/MouseClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
       </list>
     </option>
   </component>
@@ -185,6 +203,8 @@
       <workItem from="1615178475451" duration="75000" />
       <workItem from="1615947400075" duration="22000" />
       <workItem from="1615947439942" duration="109000" />
+      <workItem from="1616125590303" duration="13000" />
+      <workItem from="1616125609918" duration="989000" />
     </task>
     <servers />
   </component>

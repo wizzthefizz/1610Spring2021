@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using Image = UnityEngine.UIElements.Image;
 
 public class KeyInput : MonoBehaviour
 {
-    public GUITexture graphic;
+    public Image graphic;
     public Texture2D standard;
     public Texture2D downgfx;
     public Texture2D upgfx;
@@ -12,7 +14,7 @@ public class KeyInput : MonoBehaviour
     
     void Start()
     {
-        graphic.texture = standard;
+        graphic.image = standard;
     }
     
     void Update ()
@@ -23,21 +25,21 @@ public class KeyInput : MonoBehaviour
         
         if(down)
         {
-            graphic.texture = downgfx;
+            graphic.image = downgfx;
         }
         else if(held)
         {
-            graphic.texture = heldgfx;
+            graphic.image = heldgfx;
         }
         else if(up)
         {
-            graphic.texture = upgfx;
+            graphic.image = upgfx;
         }
         else
         {
-            graphic.texture = standard; 
+            graphic.image = standard; 
         }
         
-        guiText.text = " " + down + "\n " + held + "\n " + up;
+        Debug.Log(" " + down + "\n " + held + "\n " + up);
     }
 }
