@@ -20,30 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e699acd-a93f-4b56-a9d2-ef914a1ebe0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisExample.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AxisRawExample.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/07/07e75ddf544f5494bb30b3615731d697" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1e/1e8d59d5672935e8a45c84d7a601b4fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/2138a4eb578466626e62c071a3f2c81f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28c581ac253adeaaa528d523e0771bdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/4894149c305d0a847eb97c0e26c654e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/83/83f03e5bccf4a223bd3a7954f87c5260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a9/a9369fdc9e4e793e3cebfabcaed102d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b5de50c8d42c5461fc5c962bd134f10a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/EditorInstance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/ProtocolInstance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/Library/StateCache/MainStageHierarchy/05/05591142032effa829f6ed2acd967d8d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityLockfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-2df4c971e72094d90b6e5901b99c835b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-5b21598dee4984d1d8850f305d667881" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-644c18fdaa3244e7481111b2f8c6ba0d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/UnityTempFile-d2b8e9bcea51c43aaa827e5ee97cd773" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/Temp/__Backupscenes/0.backup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Truck Game/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Truck Game/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +41,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyOther.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/YetAnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DestroyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/UsingOtherComponents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -113,6 +101,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/ButtonInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Player.cs" />
       </list>
     </option>
   </component>
@@ -205,6 +194,7 @@
       <workItem from="1615947439942" duration="109000" />
       <workItem from="1616125590303" duration="13000" />
       <workItem from="1616125609918" duration="989000" />
+      <workItem from="1616210212541" duration="255000" />
     </task>
     <servers />
   </component>
