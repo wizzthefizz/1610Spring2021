@@ -23,12 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/2138a4eb578466626e62c071a3f2c81f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28c581ac253adeaaa528d523e0771bdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/4894149c305d0a847eb97c0e26c654e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/83/83f03e5bccf4a223bd3a7954f87c5260" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a9/a9369fdc9e4e793e3cebfabcaed102d6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b5de50c8d42c5461fc5c962bd134f10a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/71/714bd61bd9516c1e3357c350a6dec9f8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -102,6 +97,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/KeyInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/DualAxisExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginnerScripting/Game.cs" />
       </list>
     </option>
   </component>
@@ -195,6 +191,8 @@
       <workItem from="1616125590303" duration="13000" />
       <workItem from="1616125609918" duration="989000" />
       <workItem from="1616210212541" duration="255000" />
+      <workItem from="1616467622861" duration="21000" />
+      <workItem from="1616467651639" duration="34000" />
     </task>
     <servers />
   </component>

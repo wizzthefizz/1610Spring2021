@@ -29,6 +29,7 @@
             <e p="ExampleBehaviorScript.cs" t="Include" />
             <e p="ForEachLoop.cs" t="Include" />
             <e p="ForLoop.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="Inventory.cs" t="Include" />
             <e p="InvokeRepeating.cs" t="Include" />
